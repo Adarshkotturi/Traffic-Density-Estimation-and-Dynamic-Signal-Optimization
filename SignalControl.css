@@ -1,0 +1,35 @@
+.signal-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .signals {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .lane {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .light {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+    transition: 0.3s;
+  }
+  
+  .red {
+    background-color: red;
+    opacity: 0.3;
+  }
+  
+  .green {
+    background-color: green;
+    opacity: 1;
+  }
+  

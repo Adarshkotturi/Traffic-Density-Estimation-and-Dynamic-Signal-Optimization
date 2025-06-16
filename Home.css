@@ -1,0 +1,55 @@
+.home-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home-header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .home-header h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .home-content {
+    text-align: left;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .home-content h2, .home-instructions h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .home-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .home-content li {
+    background: #f0f0f0;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  .home-instructions {
+    text-align: left;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .home-instructions ol {
+    padding-left: 20px;
+  }
+  
+  .home-instructions li {
+    margin: 5px 0;
+  }
+  
